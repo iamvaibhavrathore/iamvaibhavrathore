@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on GitHub
 - 📖 Pursuing my Bachelor's in Electronics and Communication from [Bharati Vidyapeeth (DU) College of Engineering](https://bvucoepune.edu.in/).
 - 🧑🏻‍💻 Tech enthusiast, designer & an Engineer.
-- 💡 Always open to collaborating on projects and innovative ideas.
 
 
 We can Connect here👇🏻
