@@ -1,4 +1,4 @@
-# Hey!! Great to see you here!👋🏻 I'm a Logic Based Creator; 
+# Hey!👋🏻 I'm a Logic Based Creator; 
 
 - 🔭 I’m currently working on Full Stack Development
 - 🌱 I’m currently learning IoT
