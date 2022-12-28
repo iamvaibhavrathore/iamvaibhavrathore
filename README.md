@@ -1,7 +1,7 @@
 # Hey!👋🏻 I'm a Logic Based Creator; 
 
 - 🔭 I’m currently working on Full Stack Development
-- 🌱 I’m currently learning IoT
+- 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on GitHub
 - 📖 Pursuing my Bachelor's in Electronics and Communication from [Bharati Vidyapeeth (DU) College of Engineering](https://bvucoepune.edu.in/).
 - 🧑🏻‍💻 Tech enthusiast, designer & an Engineer.
